@@ -8,7 +8,6 @@ for (let i = 0; i < allButtons.length; i++) {
       transform: 'translate(' + p + 'px)'
     })
     n = index
-    
   })
 }
 
